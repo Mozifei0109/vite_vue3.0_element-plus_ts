@@ -1,6 +1,5 @@
 # Vite2.x + Vue 3.x + Typescript
 
-[preview](https://vite-vue3-template-2d76i8beae2d0-1256505457.tcloudbaseapp.com/)
 ## Features
 ### PROD
 * [x] [Vue3](https://vuejs.org/)
@@ -19,14 +18,8 @@
 * [x] [Prettier](https://prettier.io/)
 * [x] [Vitest](https://vitest.dev/) - replace jest
 
-## Use This Template
-```sh
-npx degit atqq/vite-vue3-template#main my-project
-```
-or
 
-Visit：[https://github.com/ATQQ/vite-vue3-template/generate](https://github.com/ATQQ/vite-vue3-template/generate)
-## Usage
+
 ### install dep
 need install pnpm
 ```sh
